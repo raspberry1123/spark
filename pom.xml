@@ -212,7 +212,7 @@
     <test.exclude.tags></test.exclude.tags>
     <test.include.tags></test.include.tags>
 
-    <test.jdwp.address>localhost:0</test.jdwp.address>
+<!--    <test.jdwp.address>localhost:0</test.jdwp.address> -->
     <test.jdwp.suspend>y</test.jdwp.suspend>
     <test.jdwp.server>y</test.jdwp.server>
     <test.debug.suite>false</test.debug.suite>
